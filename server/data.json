@@ -1,0 +1,14 @@
+{
+  "books": [
+    { "id": 1, "title": "Cien años de soledad", "author": "Gabriel García Márquez", "category": "Novela", "year": 1967, "isbn": "978-0307474728", "status": "Disponible", "location": "A-01" },
+    { "id": 2, "title": "El nombre de la rosa", "author": "Umberto Eco", "category": "Misterio", "year": 1980, "isbn": "978-0156001311", "status": "Prestado", "location": "A-02" },
+    { "id": 3, "title": "Rayuela", "author": "Julio Cortázar", "category": "Novela", "year": 1963, "isbn": "978-8437604572", "status": "Disponible", "location": "B-04" },
+    { "id": 4, "title": "Sapiens", "author": "Yuval Noah Harari", "category": "Historia", "year": 2011, "isbn": "978-0062316097", "status": "Mantenimiento", "location": "C-12" }
+  ],
+  "users": [
+    { "id": 1, "name": "María González", "email": "maria@ownlibrary.local", "role": "Bibliotecaria", "status": "Activo" },
+    { "id": 2, "name": "Carlos Ruiz", "email": "carlos@ownlibrary.local", "role": "Lector", "status": "Activo" },
+    { "id": 3, "name": "Ana Torres", "email": "ana@ownlibrary.local", "role": "Lector", "status": "Inactivo", "password": "biblioteca123" },
+    { "id": 4, "name": "Lucía Fernández", "email": "lucia@ownlibrary.local", "role": "Lector", "status": "Activo", "password": "lucia123" }
+  ]
+}

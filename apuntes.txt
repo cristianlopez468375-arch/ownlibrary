@@ -1,0 +1,1 @@
+https://clis.dev/ son como mcp se hablaba de que los mcp desaparecerían(no me funciona el comandcode en windows lanza error por terminal), no funcionan en windows algunos por eso estos cli son alternativas a los mcp
